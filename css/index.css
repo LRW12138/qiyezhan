@@ -1,0 +1,246 @@
+body{width:1366px;
+height:100%;
+background-color:#fff;
+}
+.qiyezhan{width:976px;
+height:100%;
+margin:0 auto;
+background-color:#fff;
+}
+.top{	margin-left:258px;
+		width:850px;
+		height:60px;
+		background-color:#fff;
+		margin:0 auto;}
+.top-left{float:left;}
+.top-logo{float:left;}
+.top-xuanxiang{float:left;}
+.top-right .denglu{float:right;}
+.top-xuanxiang{
+	font-size:12px;
+	line-height:60px;
+	text-align:center;
+}
+.denglu a{font-size:12px;
+	line-height:60px;
+	text-align:center;
+	color:#000;}
+.denglu a:hover{color:#b8986c;}
+.top-xuanxiang a{
+	width:65px;
+	height:60px;
+	background-color:#fff;
+	display:inline-block;
+	color:#000;
+}
+.top-xuanxiang a:hover{
+	width:65px;
+	height:60px;
+	background-color:#fff;
+	display:inline-block;
+	color:#b8986c;
+}
+.top-xuanxiang a:nth-child(1){
+	margin-left:38px;
+}
+.banner{width:100%;
+height:588px;
+background-color:pink;}
+.guanyuwomen{
+		width:100%;
+		height:1120px;
+		/* background-color:yellow; */
+		}
+.guanyuwomen-top div:nth-child(1){float:left;width: 80px;height:40px;}
+.guanyuwomen-top div:nth-child(2){float:left;width:160px;height:40px;}
+.guanyuwomen-top-wenzi h1{font-size:18px;font-family: "苹方" ;
+font-weight:bold;font-size:17px;color:#000;}
+.guanyuwomen-top-wenzi h2{font-size:18px;font-family: "苹方" ;
+font-weight:bold;font-size:16px;color:#000;}
+.guanyuwomen-bottom{
+		width:100%;
+		height:988px;
+		background-color:#fff;
+		margin:0 auto;
+}
+
+.lianxiwomen .guanyuwomen-top-wenzi h1{font-size:18px;font-family: "苹方" ;
+font-weight:bold;color:#fff;}
+.lianxiwomen .guanyuwomen-top-wenzi h2{font-size:18px;font-family: "苹方" ;
+font-weight:bold;color:#fff;}
+
+
+.guanyuwomen-bottom .guonei{width:382px;height:60px;
+margin:0 auto;
+line-height:26px;
+text-align:center;}
+.guanyuwomen-bottom .guonei h1{font-family: "微软雅黑";font-size:17px;letter-spacing:2px;}
+.guanyuwomen-bottom .guonei h2{font-family: "Gill Sans MT Pro";font-size:10px;}
+.guanyuwomen-top div .guanyuwomen-top-juxin{float:left;width:61px;height:4px;float:left;background-color:#000;margin-top:9px;}
+.lianxiwomen .guanyuwomen-top div .guanyuwomen-top-juxin{float:left;width:61px;height:4px;float:left;background-color:#fff;margin-top:9px;}
+.gongsichengli{width:748px; 
+				height:152px;
+				background-color:#fff;
+				display:block;
+				margin:0 auto;}
+.gongsichengli .sssss{width:187px; 
+	   height:152px;
+	   float:left;
+	   text-align:center;
+}
+.gongsichengli .sssss h1{font-family:"苹方";font-weight:300;font-size:50px;color:#191717;}
+.gongsichengli .sssss h2{font-family:"微软雅黑";font-weight:200;font-size:20px;color:#a1a1a1;}
+.guanyuwomen-top{
+		width:976px;
+		height:40px;
+		margin:50px auto;
+}
+
+.guanyuwomen-top h1{font-size:17px;}
+.guanyuwomen-top h2{font-size:17px;}
+.guanyuwomen-tupian{
+	width:604px;height:402px;
+	margin:0 auto;
+}
+.guanyuwomen-bottom .guanyuwomen-tupian-xia{
+width:604px;height:186px;
+font-size:5px;
+margin: 0 auto;
+text-align:center;
+line-height:15px;
+padding-top:50px;
+}
+.guanyuwomen-three{width: 600px;
+height: 66px;
+font-size:6px;
+margin:0 auto;}
+.guanyuwomen-bottom .yuanjing{
+	width:200px;height:100px;
+	float:left;
+	text-align:center;
+	line-height:16px;
+}
+
+.tuanduichengyuan-bottom-right-top{width:485px;height:266px;}
+
+.tuanduichengyuan-bottom-right-top:hover{box-shadow:1px 1px 10px rgba(0, 0, 0, 0.3);}
+.tuanduichengyuan-bottom-right-top:hover{box-shadow:1px 1px 10px rgba(0, 0, 0, 0.3);}
+.tuanduichengyuan-bottom-right-top:hover{box-shadow:1px 1px 10px rgba(0, 0, 0, 0.3);}
+
+.guanyuwomen .guanyuwomen-bottom .more:hover{box-shadow:3px 3px 10px rgba(0, 0, 0, 0.7);}
+
+
+
+.guanyuwomen-bottom .more{width:110px;height:30px;background-color:#000000;margin:100px auto;border-radius:3px;}
+.guanyuwomen-bottom .more a{display:block;width:110px;height:30px;color:#fff;text-align:center;line-height:27px;}
+.guanyuwomen .guanyuwomen-bottom .more:hover{box-shadow:3px 3px 10px rgba(0, 0, 0, 0.7);}
+
+.tukujingxuan-bottom .more{width:110px;height:30px;background-color:#000000;margin:100px auto;border-radius:3px;}
+.tukujingxuan-bottom .more a{display:block;width:110px;height:30px;color:#fff;text-align:center;line-height:27px;}
+.tukujingxuan .tukujingxuan-bottom .more:hover{box-shadow:3px 3px 10px rgba(0, 0, 0, 0.7);}
+
+.tuanduichengyuan-bottom .more{width:110px;height:30px;background-color:#000000;margin:100px auto;border-radius:3px;}
+.tuanduichengyuan-bottom .more a{display:block;width:110px;height:30px;color:#fff;text-align:center;line-height:27px;}
+.tuanduichengyuan .tuanduichengyuan-bottom .more:hover{box-shadow:3px 3px 10px rgba(0, 0, 0, 0.7);}
+
+
+/* 广告 */
+.guanggao1{background-image:url("../image/images/网站_08.png");
+	width:100%;height:225px;}
+.guanggao2{background-image:url("../image/images/网站_101.png");
+	width:100%;height:225px;}
+.guanggao1 .guanggao1-top{height:152px;width:382px;margin:0 auto;line-height:102px;text-align:center;}
+.guanggao1-top .guanggao1-juxing1{float:left;background-color:#353535;width:75px;height: 2px;line-height:102px;margin-top:90px;margin-right:10px;}
+.guanggao1-top .guanggao1-poe{float:left;font-size:100px;font-family:bold;font-family: "Gill Sans MT Pro";font-weight:600;margin-top:40px;color:#353535; }
+.guanggao1-top .guanggao1-juxing2{float:left;background-color:#353535;width:75px;height: 2px;margin-top:90px;margin-left:10px;}
+.guanggao1-bottom{height:67px;width:438px;margin:0 auto;line-height:67px;margin:0 auto;text-align:center;}
+.guanggao1 .guanggao1-bottom h3{font-weight:100;font-size:18px;font-family:"微软雅黑";color:#353535;display:block;width:100%;height:15px;margin-top:-10px;}
+.guanggao1 .guanggao1-bottom h2{font-weight:100;font-size:10px;font-family:"微软雅黑";color:#353535;display:block;width:100%;height:15px;margin-top:5px;}
+
+
+/* 图库 */
+.tukujingxuan{width:976px;
+height:1800px;
+margin:0 auto;}
+.tukujingxuan-bottom{
+	width:850px;
+	height:1724px;
+	margin:0 auto;
+}
+.tukujingxuan-bottom .chahua{
+	width:239px;height:180px;
+	text-align:center;
+	margin:0 auto;
+}
+.tukujingxuan-bottom .chahua h1{font-family:"苹方";font-size:50px;font-weight:400;text-align:center;margin-top:30px;}
+.tukujingxuan-bottom .chahua h2{font-family:"Gill Sans MT Pro";font-weight:200;text-align:center;margin-top:8px;
+font-size:13px;}
+.tukujingxuan-bottom .chahua .chahua-hengxian{width:98px;height:1.5px;background-color:#444444;margin-top:-8px;margin-left:70px;}
+.tukujingxuan-bottom .chahua h3{font-family:"Gill Sans MT Pro";font-weight:500;text-align:center;margin-top:30px;
+font-size:18px;}
+
+
+.tukujingxuan-bottom .tukujingxuan-1{width:850px;height:438px;}
+.tukujingxuan-bottom .tukujingxuan-2{width:850px;height:847px;margin-top:40px;}
+.tukujingxuan-bottom .tukujingxuan-2 div:nth-child(1){width:279px; height:562px;float:left;}
+.tukujingxuan-bottom .tukujingxuan-2 div:nth-child(1):hover{box-shadow:2px 2px 5px rgba(0, 0, 0, 0.5);}
+.tukujingxuan-bottom .tukujingxuan-2 div:nth-child(2){width:564px;height:562px;float:right;}
+.tukujingxuan-bottom .tukujingxuan-2 div:nth-child(2):hover{box-shadow:2px 2px 5px rgba(0, 0, 0, 0.5);}
+.tukujingxuan-bottom .tukujingxuan-2 div:nth-child(3){width:279px;height:280px;float:left;margin-top:5px;}
+.tukujingxuan-bottom .tukujingxuan-2 div:nth-child(4){width:564px;height:280px;float:right;margin-top:5px;}
+.tukujingxuan-bottom .tukujingxuan-2 div:nth-child(4):hover{box-shadow:2px 2px 5px rgba(0, 0, 0, 0.5);}
+.tukujingxuan-bottom .tukujingxuan-2 div:nth-child(3) .jingtoujiyi{width:206px;height:2px;background-color:#444444;margin-right:38px;margin-top:-8px;}
+.tukujingxuan-bottom .tukujingxuan-2 div:nth-child(3) h1{font-family:"苹方";font-size:50px;font-weight:400;text-align:center;margin-top:30px;}
+.tukujingxuan-bottom .tukujingxuan-2 div:nth-child(3) h2{font-family:"Gill Sans MT Pro";font-weight:500;text-align:center;margin-top:40px;
+font-size:18px;}
+.tukujingxuan-bottom .tukujingxuan-2 div:nth-child(3) h3{font-family:"苹方";font-weight:100;text-align:center;
+font-size:25px;}
+.tukujingxuan-bottom .tukujingxuan-2 div:nth-child(3) h4{font-family:"Gill Sans MT Pro";font-weight:100;text-align:center;margin-top:-8px;
+font-size:18px;}
+
+
+/* 团队成员 */
+.tuanduichengyuan{width:976px;height:670px;background-color:#fff;margin:0 auto;}
+.tuanduichengyuan .guanyuwomen-bottom{width:790px;height:389px;background-color:#fff;margin:0 auto;}
+.guanyuwomen-bottom .tuanduichengyuan-bottom-left{width:292px;height: 389px;float:left;}
+
+.guanyuwomen-bottom .tuanduichengyuan-bottom-right{width:485px;height: 389px;float:right;}
+.guanyuwomen-bottom .tuanduichengyuan-bottom-right-top div{width:157px;height:266px;float:left;margin-right:7px;}
+.guanyuwomen-bottom .tuanduichengyuan-bottom-right-top div:nth-child(3){width:157px;height:266px;float:left;margin-right:0;}
+.guanyuwomen-bottom .tuanduichengyuan-bottom-right-top div div{width:157px;height: 192px;float:left;}
+.guanyuwomen-bottom .tuanduichengyuan-bottom-right-top div .tuanduichengyuan-bottom-right-top-juxing{width:48px;height:1px;background-color: #d7d7d7;}
+.guanyuwomen-bottom .tuanduichengyuan-bottom-right-top div h1{font-family:"Helvetica Neue...";font-weight:400;color:#dabb62;font-size:14px;}
+.guanyuwomen-bottom .tuanduichengyuan-bottom-right-top div h2{font-family:"苹方";font-weight:800;color:#131313;font-size:10px;}
+.guanyuwomen-bottom .tuanduichengyuan-bottom-right-top div h3{font-family:"苹方";font-weight:300;color:#7f7f7e;font-size:15px;margin-top:1px;margin-right:20px;}
+.guanyuwomen-bottom .tuanduichengyuan-bottom-right-bottom{margin-top:10px;}
+.guanyuwomen-bottom .tuanduichengyuan-bottom-right-bottom h1{font-size:10px;font-family:"苹方";line-height:15px;}
+
+/* 联系我们 */
+.lianxiwomen{background-image:url("../image/images/网站_100.png");width:1366px;height:261px;}
+.swiper-container{
+      width: 850px;
+      height:438px;
+    }
+.swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      background: #fff;
+
+      /* Center slide text vertically */
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -ms-flex-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      -webkit-align-items: center;
+      align-items: center;
+    }
+
+
+
+
