@@ -123,10 +123,6 @@ margin:0 auto;}
 
 .tuanduichengyuan-bottom-right-top{width:485px;height:266px;}
 
-.tuanduichengyuan-bottom-right-top:hover{box-shadow:1px 1px 10px rgba(0, 0, 0, 0.3);}
-.tuanduichengyuan-bottom-right-top:hover{box-shadow:1px 1px 10px rgba(0, 0, 0, 0.3);}
-.tuanduichengyuan-bottom-right-top:hover{box-shadow:1px 1px 10px rgba(0, 0, 0, 0.3);}
-
 .guanyuwomen .guanyuwomen-bottom .more:hover{box-shadow:3px 3px 10px rgba(0, 0, 0, 0.7);}
 
 
@@ -203,11 +199,14 @@ font-size:18px;}
 .tuanduichengyuan{width:976px;height:670px;background-color:#fff;margin:0 auto;}
 .tuanduichengyuan .guanyuwomen-bottom{width:790px;height:389px;background-color:#fff;margin:0 auto;}
 .guanyuwomen-bottom .tuanduichengyuan-bottom-left{width:292px;height: 389px;float:left;}
+.guanyuwomen-bottom .tuanduichengyuan-bottom-left:hover{box-shadow:1px 1px 10px rgba(0, 0, 0, 0.3);}
 
 .guanyuwomen-bottom .tuanduichengyuan-bottom-right{width:485px;height: 389px;float:right;}
 .guanyuwomen-bottom .tuanduichengyuan-bottom-right-top div{width:157px;height:266px;float:left;margin-right:7px;}
 .guanyuwomen-bottom .tuanduichengyuan-bottom-right-top div:nth-child(3){width:157px;height:266px;float:left;margin-right:0;}
 .guanyuwomen-bottom .tuanduichengyuan-bottom-right-top div div{width:157px;height: 192px;float:left;}
+.guanyuwomen-bottom .tuanduichengyuan-bottom-right-top div div:hover{box-shadow:1px 1px 10px rgba(0, 0, 0, 0.3);}
+
 .guanyuwomen-bottom .tuanduichengyuan-bottom-right-top div .tuanduichengyuan-bottom-right-top-juxing{width:48px;height:1px;background-color: #d7d7d7;}
 .guanyuwomen-bottom .tuanduichengyuan-bottom-right-top div h1{font-family:"Helvetica Neue...";font-weight:400;color:#dabb62;font-size:14px;}
 .guanyuwomen-bottom .tuanduichengyuan-bottom-right-top div h2{font-family:"苹方";font-weight:800;color:#131313;font-size:10px;}
